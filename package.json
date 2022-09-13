@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": "",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "telegraf": "^4.9.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
